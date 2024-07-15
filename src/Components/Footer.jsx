@@ -97,7 +97,7 @@ function Footer() {
     <hr className="h-px w-[213vh]	py-[-10rem]	 bg-gray-200 border-0 dark:bg-gray-700  mb-4 mx-auto" />
 </div>
 <div className="sm:flex sm:items-center sm:justify-between pt-3 px-12 pb-[10rem]" >
-          <span className="text-sm  sm:text-center dark:text-gray-400 px-12">© 2024 Restaurant™. All Rights Reserved Designed by Zack.
+          <span className="text-sm  sm:text-center dark:text-gray-400 px-12">© 2024 Restaurant™. All Rights Reserved Designed by Maliza.
           </span>
           <div className="flex mt-4 sm:justify-center sm:mt-0">
               <a href="#" className="text-gray-500 hover:text-gray-900 dark:hover:text-white">
